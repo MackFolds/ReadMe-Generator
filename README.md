@@ -28,3 +28,7 @@
   Email Us At: mackfoldsIII@gmail.com
   Github Repo: https://github.com/MackFolds/ReadMe-Generator.git
 
+![preview of the index](Develop\Images\indexJSPreview.png)
+![preview of the markdown](Develop\Images\markdown.png)
+![preview of the readme-generator](Develop\Images\readme-gen.png)
+![preview of the user input in the terminal](Develop\Images\user-input.png)
