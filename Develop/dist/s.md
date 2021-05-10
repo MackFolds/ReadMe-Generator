@@ -1,7 +1,7 @@
 
-  # ReadMe generator ![badmath](https://img.shields.io/badge/license-MIT-blue)
+  # s 
   ## About/Description
-  Generate a readme
+  s
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,19 +12,19 @@
   * [Questions](#questions)
   
   ## Installation
-  npm install in the terminal before you begin 
+  s
   ## Usage
-  start with node index.js
+  s
   ## Languages
-  JavaScript<br>ES6
+  No programming languages selected
   ## Contributing
-  Contributions by: Mack folds
+  Contributions by: s
   If you would like to contribute to this project we follow the [Contributor Covenant](https://www.contributor-covenant.org/)
   ## License
-  https://choosealicense.com/licenses/mit/
+  No license was selected
   ## Tests
-  none
+  s
   ## Questions:
   If you have any questions please contact us or refer to our github below:
-  Email Us At: email@email
-  Github Repo: link@link
+  Email Us At: s
+  Github Repo: s

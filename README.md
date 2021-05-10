@@ -32,3 +32,4 @@
 ![preview of the markdown](Develop\Images\markdown.png)
 ![preview of the readme-generator](Develop\Images\readme-gen.png)
 ![preview of the user input in the terminal](Develop\Images\user-input.png)
+<a href="https://youtu.be/f4QBxacJTTo" target="_blank">Click here for a walkthrough link</a>
